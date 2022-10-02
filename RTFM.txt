@@ -1,0 +1,4 @@
+If you want to secure your AWS account/s read this
+But for more important things you need someone who understands more than AWS CyberSecurity Essentials
+
+https://subscription.packtpub.com/book/virtualization_and_cloud/9781789136722
