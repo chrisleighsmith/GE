@@ -3,6 +3,15 @@ http://www.photometadata.org/meta-tutorials
 
 #Oh Bear I hope you didnt just open those images :0)
 https://security.stackexchange.com/questions/225478/png-jpg-exploit
+#Further clues:
+https://github.com/emanuelandrei/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022
+#Is this guy ^^ on @twitter?
+https://twitter.com/hashtag/EXPLOIT
+https://www.pinterest.co.uk/pin/657314508107442461/
+https://github.com/e4r23fd/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022
+https://user-images.githubusercontent.com/106811566/171872246-47cf93b1-5802-4d02-a7ce-d8a348c437f0.png #Zoom to see what tools check for anitvirus fails
+https://packetstormsecurity.com/files/152396/WordPress-5.0.0-crop-image-Shell-Upload.html
+https://www.hacking.land/2018/01/fakeimageexploiter-use-fake-imagejpg.html?m=1
 
 #Next time you use a browser to view png/jpg use this to be safer: 
 https://github.com/jlesage/docker-firefox
@@ -20,6 +29,14 @@ https://www.uklaw.co.uk/data-breach-compensation/medical-test-results-data-breac
 #Potential targets for recon/pentest
 https://www.ukri.org/about-us/mrc/institutes-units-and-centres/mrc-human-genetics-unit/
 https://www.theguardian.com/science/2017/jul/23/what-i-learned-from-home-dna-test-kits-are-they-accurate-or-worthwhile
+
+#Social Media exploits and fishing
+https://uk.linkedin.com/in/joseph-mallinder-272300129
+https://uk.linkedin.com/in/mapavlovic
+# ^^^ Try changing passwords to alert interviewers Im trying to hack the
+HR has already sent me the format of emails @GE
+firstname.lastname@ge.co.uk  :wink
+send password reset to MPavlo via  AlexA gmail account ( Ivor Bigun fake profile)
 
 #Email tracker:
 #oh dear y'all didnt open my email did ya :o)
