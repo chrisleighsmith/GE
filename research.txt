@@ -8,3 +8,19 @@ https://security.stackexchange.com/questions/225478/png-jpg-exploit
 https://github.com/jlesage/docker-firefox
 #Alternative:
 https://www.browserling.com/
+
+#I would protect myself further with an enterprise but free AV
+https://my.sophos.com/en-us/download/
+#or get an opensource version with no expiry or license
+https://windowsreport.com/open-source-antivirus/
+
+#The law and enforcement
+https://www.uklaw.co.uk/data-breach-compensation/medical-test-results-data-breach-how-much-could-i-claim
+
+#Potential targets for recon/pentest
+https://www.ukri.org/about-us/mrc/institutes-units-and-centres/mrc-human-genetics-unit/
+https://www.theguardian.com/science/2017/jul/23/what-i-learned-from-home-dna-test-kits-are-they-accurate-or-worthwhile
+
+#Email tracker:
+#oh dear y'all didnt open my email did ya :o)
+https://www.hubspot.com/
