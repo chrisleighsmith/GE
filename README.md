@@ -7,3 +7,5 @@ This is a test
 
 Written for TF 0.11.15
 Use TFswitch if you wanna https://tfswitch.warrensbox.com/
+
+P.S Be very careful what you open on a Public git repo. Have you scanned me ;o)

@@ -1,0 +1,10 @@
+https://www.ionos.com/digitalguide/websites/web-design/jpg-vs-png/
+http://www.photometadata.org/meta-tutorials
+
+#Oh Bear I hope you didnt just open those images :0)
+https://security.stackexchange.com/questions/225478/png-jpg-exploit
+
+#Next time you use a browser to view png/jpg use this to be safer: 
+https://github.com/jlesage/docker-firefox
+#Alternative:
+https://www.browserling.com/
